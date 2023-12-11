@@ -1,3 +1,13 @@
 body {
-    
+}
+
+.bloque {
+    max-width: 600px;
+    min-width: 300px;
+    border-radius: 8px;
+}
+
+.limites {
+    max-width: 300px;
+    min-width: 100px;
 }

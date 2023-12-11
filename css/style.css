@@ -20,3 +20,10 @@ iframe{
 p{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+.bloque {
+    max-width: 600px;
+    min-width: 300px;
+    border-radius: 8px;
+    border: 1px solid yellow;
+}

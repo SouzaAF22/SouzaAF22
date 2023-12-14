@@ -11,3 +11,10 @@ body {
     max-width: 300px;
     min-width: 100px;
 }
+
+.historia {
+    width: 700px;
+    height: 400px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
